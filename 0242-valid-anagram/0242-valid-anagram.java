@@ -4,6 +4,7 @@ class Solution {
         char[] tchars = t.toCharArray();
         Arrays.sort(schars);
         Arrays.sort(tchars);
-        return Arrays.equals(schars , tchars);
+        return Arrays.equals(schars, tchars);
+
     }
 }
