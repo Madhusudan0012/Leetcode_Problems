@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0058-length-of-last-word) |
 | [0187-repeated-dna-sequences](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0242-valid-anagram) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [2755-extra-characters-in-a-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2755-extra-characters-in-a-string) |
 ## Bit Manipulation
 |  |
