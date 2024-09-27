@@ -104,4 +104,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0724-find-pivot-index) |
+## Tree
+|  |
+| ------- |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0774-maximum-depth-of-n-ary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0774-maximum-depth-of-n-ary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0774-maximum-depth-of-n-ary-tree) |
 <!---LeetCode Topics End-->
