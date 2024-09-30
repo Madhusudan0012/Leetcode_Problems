@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0731-my-calendar-ii) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2755-extra-characters-in-a-string) |
 ## Hash Table
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0731-my-calendar-ii) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Segment Tree
 |  |
 | ------- |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0774-maximum-depth-of-n-ary-tree) |
+## Stack
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
