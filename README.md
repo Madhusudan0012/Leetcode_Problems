@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1694-make-sum-divisible-by-p) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2755-extra-characters-in-a-string) |
 ## Hash Table
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0817-design-hashmap) |
 | [1256-rank-transform-of-an-array](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1694-make-sum-divisible-by-p) |
 | [2755-extra-characters-in-a-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2755-extra-characters-in-a-string) |
 ## String
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0731-my-calendar-ii) |
+| [1694-make-sum-divisible-by-p](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1694-make-sum-divisible-by-p) |
 ## Tree
 |  |
 | ------- |
