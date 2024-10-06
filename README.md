@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1694-make-sum-divisible-by-p) |
+| [1923-sentence-similarity-iii](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1923-sentence-similarity-iii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2755-extra-characters-in-a-string) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1923-sentence-similarity-iii](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1923-sentence-similarity-iii) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0567-permutation-in-string) |
+| [1923-sentence-similarity-iii](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
