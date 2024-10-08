@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0347-top-k-frequent-elements](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0605-can-place-flowers) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [1256-rank-transform-of-an-array](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1256-rank-transform-of-an-array) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
@@ -196,4 +200,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
