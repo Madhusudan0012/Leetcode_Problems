@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1694-make-sum-divisible-by-p) |
 | [1923-sentence-similarity-iii](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1923-sentence-similarity-iii) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2755-extra-characters-in-a-string) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [1256-rank-transform-of-an-array](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1256-rank-transform-of-an-array) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Counting
 |  |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0605-can-place-flowers) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Design
 |  |
 | ------- |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0731-my-calendar-ii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1694-make-sum-divisible-by-p) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Tree
 |  |
 | ------- |
@@ -213,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Bucket Sort
 |  |
 | ------- |
