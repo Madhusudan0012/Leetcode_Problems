@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0816-design-hashset](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0817-design-hashmap) |
 ## Queue
