@@ -1,27 +1,22 @@
-import java.util.*;
-
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
-        // Frequency map
-        HashMap<Integer, Integer> freqMap = new HashMap<>();
-        for (int num : nums) {
-            freqMap.put(num, freqMap.getOrDefault(num, 0) + 1);
+        if(k == nums.length ) return nums;
+        Map<Integer, Integer> map = new HashMap<>();
+        for(int i = 0 ; i<nums.length ; i++){
+            map.put(nums[i] , map.getOrDefault(nums[i],0) +1 );
         }
-
-        // Max-heap (priority queue) based on frequency
-        PriorityQueue<Map.Entry<Integer, Integer>> pq = new PriorityQueue<>(
-            (a, b) -> b.getValue() - a.getValue()
-        );
-
-        // Add all entries to the priority queue
-        pq.addAll(freqMap.entrySet());
-
-        // Retrieve the top k frequent elements
-        int[] result = new int[k];
-        for (int i = 0; i < k; i++) {
-            result[i] = pq.poll().getKey();
+        PriorityQueue<Integer> heap = new PriorityQueue<>((n1 , n2)-> map.get(n1) - map.get(n2));
+        for(int n: map.keySet()){
+            heap.add(n);
+            if(heap.size()>k) heap.poll();
         }
+        int[] top = new int[k];
+        for(int i = k-1; i>=0 ; i--){
+            top[i]= heap.poll();
+        }
+        return top;
 
-        return result;
+    
+
     }
 }
