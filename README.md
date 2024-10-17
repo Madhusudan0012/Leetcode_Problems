@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1694-make-sum-divisible-by-p) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2755-extra-characters-in-a-string) |
 ## String
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1923-sentence-similarity-iii](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1923-sentence-similarity-iii) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0645-set-mismatch](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0645-set-mismatch) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Sliding Window
 |  |
 | ------- |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0731-my-calendar-ii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1694-make-sum-divisible-by-p) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Tree
 |  |
