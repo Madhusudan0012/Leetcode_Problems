@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1923-sentence-similarity-iii](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1923-sentence-similarity-iii) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Divide and Conquer
 |  |
@@ -275,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Recursion
+|  |
+| ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
