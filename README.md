@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0347-top-k-frequent-elements](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0554-brick-wall](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [1256-rank-transform-of-an-array](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1256-rank-transform-of-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
