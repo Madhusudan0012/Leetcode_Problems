@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0567-permutation-in-string) |
+| [0868-push-dominoes](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0868-push-dominoes) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0392-is-subsequence) |
+| [0868-push-dominoes](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0868-push-dominoes) |
 | [2755-extra-characters-in-a-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2755-extra-characters-in-a-string) |
 ## Trie
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0567-permutation-in-string) |
+| [0868-push-dominoes](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0868-push-dominoes) |
 | [1923-sentence-similarity-iii](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
