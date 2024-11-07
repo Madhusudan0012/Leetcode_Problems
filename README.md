@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1923-sentence-similarity-iii) |
 | [2145-grid-game](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2145-grid-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0670-maximum-swap) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Backtracking
 |  |
 | ------- |
