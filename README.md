@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1694-make-sum-divisible-by-p) |
+| [1755-defuse-the-bomb](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1755-defuse-the-bomb) |
 | [1923-sentence-similarity-iii](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1923-sentence-similarity-iii) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2145-grid-game](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2145-grid-game) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0567-permutation-in-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0567-permutation-in-string) |
+| [1755-defuse-the-bomb](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1755-defuse-the-bomb) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Rolling Hash
 |  |
