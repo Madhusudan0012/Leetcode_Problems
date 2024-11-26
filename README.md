@@ -317,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
