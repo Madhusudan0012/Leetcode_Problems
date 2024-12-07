@@ -1,44 +1,43 @@
-public class Solution {
+class Solution {
 
-        public boolean canChange(String start, String target) {
-                int startLength = start.length();
-                        // Pointers for start string and target string
-                                int startIndex = 0, targetIndex = 0;
+    public boolean canChange(String start, String target) {
+        // Queue to store characters and indices from both strings
+        Queue<Pair<Character, Integer>> startQueue =
+            new LinkedList<>(), targetQueue = new LinkedList<>();
 
-                                        while (startIndex < startLength || targetIndex < startLength) {
-                                                    // Skip underscores in start
-                                                                while (
-                                                                                startIndex < startLength && start.charAt(startIndex) == '_'
-                                                                                            ) {
-                                                                                                            startIndex++;
-                                                                                                                        }
-                                                                                                                                    // Skip underscores in target
-                                                                                                                                                while (
-                                                                                                                                                                targetIndex < startLength && target.charAt(targetIndex) == '_'
-                                                                                                                                                                            ) {
-                                                                                                                                                                                            targetIndex++;
-                                                                                                                                                                                                        }
-                                                                                                                                                                                                                    // If one string is exhausted, both should be exhausted
-                                                                                                                                                                                                                                if (startIndex == startLength || targetIndex == startLength) {
-                                                                                                                                                                                                                                                return startIndex == startLength && targetIndex == startLength;
-                                                                                                                                                                                                                                                            }
+        // Record non-underscore characters and their indices
+        for (int i = 0; i < start.length(); i++) {
+            if (start.charAt(i) != '_') {
+                startQueue.add(new Pair<>(start.charAt(i), i));
+            }
+            if (target.charAt(i) != '_') {
+                targetQueue.add(new Pair<>(target.charAt(i), i));
+            }
+        }
 
-                                                                                                                                                                                                                                                                        // Check if the pieces match and follow movement rules
-                                                                                                                                                                                                                                                                                    if (
-                                                                                                                                                                                                                                                                                                    start.charAt(startIndex) != target.charAt(targetIndex) ||
-                                                                                                                                                                                                                                                                                                                    (start.charAt(startIndex) == 'L' && startIndex < targetIndex) ||
-                                                                                                                                                                                                                                                                                                                                    (start.charAt(startIndex) == 'R' && startIndex > targetIndex)
-                                                                                                                                                                                                                                                                                                                                                ) return false;
+        // If number of pieces don't match, return false
+        if (startQueue.size() != targetQueue.size()) return false;
 
-                                                                                                                                                                                                                                                                                                                                                            startIndex++;
-                                                                                                                                                                                                                                                                                                                                                                        targetIndex++;
-                                                                                                                                                                                                                                                                                                                                                                                }
+        // Compare each piece's type and position
+        while (!startQueue.isEmpty()) {
+            Pair<Character, Integer> startPair = startQueue.poll();
+            Pair<Character, Integer> targetPair = targetQueue.poll();
 
-                                                                                                                                                                                                                                                                                                                                                                                        // If all conditions are satisfied, return true
-                                                                                                                                                                                                                                                                                                                                                                                                return true;
-                                                                                                                                                                                                                                                                                                                                                                                                    }
-                                                                                                                                                                                                                                                                                                                                                                                                    }
+            char startChar = startPair.getKey();
+            int startIndex = startPair.getValue();
+            char targetChar = targetPair.getKey();
+            int targetIndex = targetPair.getValue();
 
+            // Check character match and movement rules
+            if (
+                startChar != targetChar ||
+                (startChar == 'L' && startIndex < targetIndex) ||
+                (startChar == 'R' && startIndex > targetIndex)
+            ) {
+                return false;
+            }
+        }
 
-        
-
+        return true;
+    }
+}
