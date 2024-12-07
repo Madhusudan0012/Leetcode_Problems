@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2487-optimal-partition-of-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2755-extra-characters-in-a-string) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0868-push-dominoes) |
 | [1923-sentence-similarity-iii](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3195-separate-black-and-white-balls](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/3195-separate-black-and-white-balls) |
