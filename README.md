@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1923-sentence-similarity-iii) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2145-grid-game](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2145-grid-game) |
+| [2164-two-best-non-overlapping-events](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0868-push-dominoes](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0868-push-dominoes) |
+| [2164-two-best-non-overlapping-events](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2755-extra-characters-in-a-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2755-extra-characters-in-a-string) |
 ## Trie
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0731-my-calendar-ii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1321-get-equal-substrings-within-budget) |
+| [2164-two-best-non-overlapping-events](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2164-two-best-non-overlapping-events) |
 ## Sorting
 |  |
 | ------- |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [1256-rank-transform-of-an-array](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1256-rank-transform-of-an-array) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2164-two-best-non-overlapping-events](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/3291-find-if-array-can-be-sorted) |
@@ -287,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+| [2164-two-best-non-overlapping-events](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Bucket Sort
