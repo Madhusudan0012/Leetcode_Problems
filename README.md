@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-optimal-partition-of-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2487-optimal-partition-of-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2755-extra-characters-in-a-string) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## String
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/3195-separate-black-and-white-balls) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0940-fruit-into-baskets) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1321-get-equal-substrings-within-budget) |
 | [1755-defuse-the-bomb](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1755-defuse-the-bomb) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Rolling Hash
 |  |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0731-my-calendar-ii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1321-get-equal-substrings-within-budget) |
 | [2164-two-best-non-overlapping-events](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2164-two-best-non-overlapping-events) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Sorting
 |  |
 | ------- |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Greedy
 |  |
 | ------- |
