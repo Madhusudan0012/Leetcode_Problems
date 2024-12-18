@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0731-my-calendar-ii) |
+| [0739-daily-temperatures](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0739-daily-temperatures) |
 | [0816-design-hashset](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0817-design-hashmap) |
 | [0932-monotonic-array](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0932-monotonic-array) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1002-maximum-width-ramp) |
 ## Union Find
 |  |
