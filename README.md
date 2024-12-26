@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0503-next-greater-element-ii](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0554-brick-wall](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0605-can-place-flowers) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1002-maximum-width-ramp) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/Madhusudan0012/Leetcode_Problems/tree/master/1002-maximum-width-ramp) |
 ## Union Find
